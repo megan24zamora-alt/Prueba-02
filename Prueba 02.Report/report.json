@@ -27,6 +27,15 @@
       "name": "27afe04b57bca0b58214",
       "visualContainers": [
         {
+          "config": "{\"name\":\"903b3fb2466b28e708cc\",\"layouts\":[{\"id\":0,\"position\":{\"x\":121,\"y\":0,\"width\":777,\"height\":379,\"z\":1,\"tabOrder\":1}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Prueba 02\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontSize\":\"42pt\"}}]}]}}]}}}",
+          "filters": "[]",
+          "height": 379.00,
+          "width": 777.00,
+          "x": 121.00,
+          "y": 0.00,
+          "z": 1.00
+        },
+        {
           "config": "{\"name\":\"eb514e0a6187a84c17a4\",\"layouts\":[{\"id\":0,\"position\":{\"x\":121.44212523719166,\"y\":182.97280202403542,\"z\":0,\"width\":777.2296015180266,\"height\":378.899430740038,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"pieChart\",\"drillFilterOtherVisuals\":true}}",
           "filters": "[]",
           "height": 378.90,
